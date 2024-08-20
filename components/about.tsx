@@ -29,9 +29,9 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React, Next.js, Node.js, and MongoDB
+          Java, Springboot, React, and MySQL
         </span>
-        . I am also familiar with Django and Flask. I am always looking to learn
+        . I have experience with Django and Flask as well. I am always looking to learn
         new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
